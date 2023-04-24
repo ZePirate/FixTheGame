@@ -1,0 +1,53 @@
+[2023.04.24-13.30.33:086][  0]LogStreaming: Warning: Failed to read file '../../../../../../Users/33642/Documents/Unreal Projects/Content/Localization/Game/Game.locmeta' error.
+[2023.04.24-13.30.33:870][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.04.24-13.30.33:905][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.04.24-13.30.33:905][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.04.24-13.30.33:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.04.24-13.30.33:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.04.24-13.30.33:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.04.24-13.30.33:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.04.24-13.30.33:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.04.24-13.30.33:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.04.24-13.30.33:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.04.24-13.30.33:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.04.24-13.30.33:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.04.24-13.30.33:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.04.24-13.30.33:952][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.04.24-13.30.33:952][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.04.24-13.30.33:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.04.24-13.30.33:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.04.24-13.30.33:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.04.24-13.30.33:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.04.24-13.30.33:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.04.24-13.30.33:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.04.24-13.30.34:002][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.04.24-13.30.34:002][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.04.24-13.30.34:002][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.04.24-13.30.34:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.04.24-13.30.34:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.04.24-13.30.34:045][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.04.24-13.30.34:045][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.04.24-13.30.34:045][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.04.24-13.30.34:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.04.24-13.30.34:046][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.04.24-13.30.34:084][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.04.24-13.30.34:302][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/33642/Documents/Unreal Projects/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.04.24-13.30.34:302][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.04.24-13.30.34:303][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/33642/Documents/Unreal Projects/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.04.24-13.30.34:303][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.04.24-13.30.34:377][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.04.24-13.30.34:418][  0]LogDerivedDataCache: Display: Performance to C:/Users/33642/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.13ms. RandomReadSpeed=244.14MBs, RandomWriteSpeed=26.26MBs. Assigned SpeedClass 'Local'
+[2023.04.24-13.30.34:459][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2023.04.24-13.30.37:573][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.04.24-13.30.39:570][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.04.24-13.30.45:939][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.04.24-13.30.45:941][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.04.24-13.30.45:943][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.04.24-13.30.46:958][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.24-13.30.46:958][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.24-13.30.48:451][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.04.24-13.30.48:475][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.04.24-13.30.48:476][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.04.24-13.30.48:495][  0]LogLiveCoding: Display: Detected running instance in process group "UE_ThirdPersonPlatformer_0x25d74ac5", connecting to console process (PID: 16604)
+[2023.04.24-13.30.48:495][  0]LogLiveCoding: Display: Waiting for server
+[2023.04.24-13.30.48:497][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
